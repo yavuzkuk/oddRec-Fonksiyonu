@@ -1,0 +1,1 @@
+# oddRec-Fonksiyonu
